@@ -16,4 +16,4 @@ echo "for the tenth season the UCL has been won again by Real Madrid CF"
 
 sleep 1
 
-echo " Congratulations !!! and Hala Madrid"
+echo " Congratulations !!! Hala Madrid"
