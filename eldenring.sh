@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo "Welcome tarnished. Please select your starting class:
 1 - Annabel
 2 - Femi
